@@ -1,0 +1,16 @@
+﻿  GLUTCallbacks.cpp
+  OpenGLRenderer.cpp
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(81,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(82,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(83,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(85,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(86,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(87,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(89,27): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(90,27): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(91,27): warning C4305: '=': truncation from 'double' to 'float'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(99,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\GlutProject\OpenGLRenderer.cpp(99,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  main.cpp
+  Generating Code...
+  GlutProject.vcxproj -> F:\Staffs Uni Projects - Year 1\GraphicsGlutOpenGL\GlutProject\Debug\GlutProject.exe
